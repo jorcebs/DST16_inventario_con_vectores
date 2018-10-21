@@ -1,0 +1,36 @@
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\Inventario\Inventario\bin\Debug\Inventario.exe.config
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\Inventario\Inventario\bin\Debug\Inventario.exe
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\Inventario\Inventario\bin\Debug\Inventario.pdb
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\Inventario\Inventario\obj\Debug\Inventario.csprojResolveAssemblyReference.cache
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\Inventario\Inventario\obj\Debug\Inventario.Form1.resources
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\Inventario\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.Cache
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\Inventario\Inventario\obj\Debug\Inventario.exe
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\Inventario\Inventario\obj\Debug\Inventario.pdb
+E:\Facu\4to semestre\Estructura de Datos\Prácticas\Inventario\Inventario\bin\Debug\Inventario.exe.config
+E:\Facu\4to semestre\Estructura de Datos\Prácticas\Inventario\Inventario\obj\Debug\Inventario.exe
+E:\Facu\4to semestre\Estructura de Datos\Prácticas\Inventario\Inventario\obj\Debug\Inventario.pdb
+E:\Facu\4to semestre\Estructura de Datos\Prácticas\Inventario\Inventario\bin\Debug\Inventario.exe
+E:\Facu\4to semestre\Estructura de Datos\Prácticas\Inventario\Inventario\bin\Debug\Inventario.pdb
+E:\Facu\4to semestre\Estructura de Datos\Prácticas\Inventario\Inventario\obj\Debug\Inventario.csprojResolveAssemblyReference.cache
+E:\Facu\4to semestre\Estructura de Datos\Prácticas\Inventario\Inventario\obj\Debug\Inventario.Form1.resources
+E:\Facu\4to semestre\Estructura de Datos\Prácticas\Inventario\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+E:\Facu\4to semestre\Estructura de Datos\Prácticas\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.Cache
+F:\Facu\4to semestre\Estructura de Datos\Prácticas\Inventario\Inventario\bin\Debug\Inventario.exe.config
+F:\Facu\4to semestre\Estructura de Datos\Prácticas\Inventario\Inventario\obj\Debug\Inventario.exe
+F:\Facu\4to semestre\Estructura de Datos\Prácticas\Inventario\Inventario\obj\Debug\Inventario.pdb
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\6. Inventario\Inventario\bin\Debug\Inventario.exe.config
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\6. Inventario\Inventario\obj\Debug\Inventario.exe
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\6. Inventario\Inventario\obj\Debug\Inventario.pdb
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\6. Inventario\Inventario\bin\Debug\Inventario.exe
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\6. Inventario\Inventario\bin\Debug\Inventario.pdb
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\6. Inventario\Inventario\obj\Debug\Inventario.csprojResolveAssemblyReference.cache
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\6. Inventario\Inventario\obj\Debug\Inventario.Form1.resources
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\6. Inventario\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\6. Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.Cache
+E:\Facu\4to semestre\Estructura de Datos\Prácticas\6. Inventario\Inventario\bin\Debug\Inventario.exe.config
+E:\Facu\4to semestre\Estructura de Datos\Prácticas\6. Inventario\Inventario\obj\Debug\Inventario.exe
+E:\Facu\4to semestre\Estructura de Datos\Prácticas\6. Inventario\Inventario\obj\Debug\Inventario.pdb
+E:\Facu\4to semestre\Estructura de Datos\Prácticas\6. Inventario con vectores\Inventario\bin\Debug\Inventario.exe.config
+E:\Facu\4to semestre\Estructura de Datos\Prácticas\6. Inventario con vectores\Inventario\obj\Debug\Inventario.exe
+E:\Facu\4to semestre\Estructura de Datos\Prácticas\6. Inventario con vectores\Inventario\obj\Debug\Inventario.pdb
